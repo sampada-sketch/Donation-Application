@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+  margin: 20px auto;
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.btn{
+  margin-left: 40%;
+}
+.form-check-label{
+  margin-left: 40%;
+}
+.form-check-input{
+  margin-left: 37%;
+}

@@ -1,0 +1,67 @@
+body{
+font-family: 'Montserrat', sans-serif;
+}
+
+
+.jumbotron{
+  text-align: center;
+}
+
+
+.image{
+  height: 400px;
+  width: 533px;
+  margin-left: 60px;
+}
+
+.gridHeading{
+  margin: 20px auto;
+}
+.ptext{
+  line-height: 2.5;
+  margin-bottom: 40px;
+
+}
+
+.ptext1{
+  line-height: 2.0;
+  margin-bottom: 40px;
+
+}
+
+.one{
+  margin: 60px auto;
+}
+
+.two{
+  margin: 60px auto;
+}
+
+.fpart{
+  margin-left: -50px;
+  margin-right: 20px;
+}
+
+
+.zero{
+  margin: 30px;
+}
+
+
+.three{
+  margin: 30px;
+  padding: 80px;
+}
+
+.insidethree{
+  padding: 30px;
+  margin: 50px;
+}
+
+.headingdthree{
+  margin-bottom: 30px;
+}
+
+.pthree{
+  line-height: 1.8;
+}
